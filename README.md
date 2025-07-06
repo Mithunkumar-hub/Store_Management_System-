@@ -77,14 +77,23 @@ Visit http://localhost/shoes-world-store in your browser
 shoes-world-store/
 │
 ├── admin/
+
 ├── shopkeeper/
+
 ├── staff/
+
 ├── images/
+
 ├── css/
+
 ├── js/
+
 ├── database/
+
 ├── index.php
+
 ├── login.php
+
 └── README.md
 
 👨‍💻 Authors
